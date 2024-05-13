@@ -10,4 +10,4 @@
 
 <h2 align = "left">Contact Me :</h2>
 
-<a href = "mailto: maryam.n.mortazavi@gmail.com"><img src ="https://logowik.com/content/uploads/images/513_email.jpg" alt = "Send Email"></a>
+<a href = "mailto: maryam.n.mortazavi@gmail.com"><img src ="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/mailIcon.jpg?raw=true" alt = "Send Email"></a>
