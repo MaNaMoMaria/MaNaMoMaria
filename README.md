@@ -9,8 +9,7 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 
-<p>Unity | 90% </p>
-<img src="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/line.png?raw=true" height = 50px width ="240px">
+<p>Unity | 90% </p><img src="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/line.png?raw=true" height = 50px width ="240px">
 
 <h3>C# | 80% </h3>
 <img src="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/line.png?raw=true" height = 50px width ="200px">
