@@ -10,7 +10,7 @@
 
 
 <h3>C# | 80% </h3>
-<img src="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/line.png?raw=true" height = 50px width ="100px">
+<img src="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/line.png?raw=true" height = 50px width ="400px">
 
 
 
@@ -18,4 +18,3 @@
 <h2 align = "left"> Contact Me: </h2>
 <a href = "mailto: maryam.n.mortazavi@gmail.com"> <img src ="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/mailIcon.jpg?raw=true" height ="25px" width = "25px" alt = "Send Email"></a>
 
-<video width="320" height="240" autoplay> <source src="Hi world.mp4" type="video/mp4"></video>
