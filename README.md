@@ -9,8 +9,8 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
 <h3 aligh = "left">C# | 80%</h3><img align = "left" src = "https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/line.png?raw=true" height = 70px width ="400px">
-</n>
-<h2 align = "left">Contact Me :</h2>
+
+<h2 align = "left"> Contact Me :</h2>
 <a href = "mailto: maryam.n.mortazavi@gmail.com"><img align ="left"src ="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/mailIcon.jpg?raw=true" height ="25px" width = "25px" alt = "Send Email"></a>
 
 
