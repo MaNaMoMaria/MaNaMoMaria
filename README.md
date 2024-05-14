@@ -10,13 +10,13 @@
 
 
 <h3>Unity | 90% </h3>
-<img src="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/23232323.png?raw=true" height = 70px width ="240px">
+<img src="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/23232323.png?raw=true" height = 100px width ="240px">
 
 <h3>C# | 80% </h3>
-<img src="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/line.png?raw=true" height = 70px width ="200px">
+<img src="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/line.png?raw=true" height = 100px width ="200px">
 
 <h3>Python | 60% </h3>
-<img src="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/line.png?raw=true" height = 70px width ="150px">
+<img src="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/line.png?raw=true" height = 100px width ="150px">
 
 
 <h2 align = "left"> Contact Me: </h2>
