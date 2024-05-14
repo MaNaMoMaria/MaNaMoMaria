@@ -1,5 +1,5 @@
 # This is Maria👋
-<img align ="cnter" src = "https://github.com/MaNaMoMaria/MaNaMoMaria/assets/119574174/65a30196-a4e7-4f04-ba9d-b9042ff5ca75" alt = "Just for Fun :D ">
+<img align ="center" src = "https://github.com/MaNaMoMaria/MaNaMoMaria/assets/119574174/65a30196-a4e7-4f04-ba9d-b9042ff5ca75" alt = "Just for Fun :D ">
 <h2 align = "center"> I'm making progress </h2>
 <p align = "center">😃I'm thirsty for learning. I would be delighted to hear your opinions💻</p>
 
@@ -11,6 +11,6 @@
 <h2 aligh = "left">C# | 80% </h2><img align = "left" src = "https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/line.png?raw=true" height = 70px width ="50px">
 
 <h2 align = "left">Contact Me :</h2>
-<a href = "mailto: maryam.n.mortazavi@gmail.com"><img align = "left" src ="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/mailIcon.jpg?raw=true" height ="25px" width = "25px" alt = "Send Email"></a>
+<a href = "mailto: maryam.n.mortazavi@gmail.com"><img align = "center" src ="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/mailIcon.jpg?raw=true" height ="25px" width = "25px" alt = "Send Email"></a>
 
 
