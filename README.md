@@ -14,7 +14,7 @@
 
 
 
-<h3 aligh = "left">C# | 80%</h3><img align = "left" src = "https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/line.png?raw=true" height = 70px width ="400px">
+<h2 >C# | 80%</h2><img align = "left" src = "https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/line.png?raw=true" height = 70px width ="400px">
 
 
 
