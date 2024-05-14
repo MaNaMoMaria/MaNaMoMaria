@@ -11,7 +11,7 @@
 
 <h3>Unity | 90% </h3>
 <img src="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/line.png?raw=true" height = 70px width ="240px">
-
+<hr>
 <h3>C# | 80% </h3>
 <img src="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/line.png?raw=true" height = 70px width ="200px">
 
