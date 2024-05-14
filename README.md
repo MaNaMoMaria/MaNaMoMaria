@@ -12,7 +12,7 @@
 
 
 
-<p >C# | 80% </p><img align = "left" src = "https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/line.png?raw=true" height = 70px width ="400px">
+<p >C# | 80% </p><img align = "left" src = "https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/line.png?raw=true" height = 50px width ="100px">
 
 <h2 align = "left"> Contact Me: </h2>
 <a href = "mailto: maryam.n.mortazavi@gmail.com"> <img src ="https://github.com/MaNaMoMaria/MaNaMoMaria/blob/main/image/mailIcon.jpg?raw=true" height ="25px" width = "25px" alt = "Send Email"></a>
